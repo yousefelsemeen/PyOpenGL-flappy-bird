@@ -1,6 +1,7 @@
 # Flappy Bird Clone
 
 This is a clone of the popular Flappy Bird game implemented using OpenGL and GLUT in Python.
+This project was for the AI subject in college with my team.
 
 ## Files
 
